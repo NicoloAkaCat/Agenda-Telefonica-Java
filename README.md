@@ -1,8 +1,5 @@
 # Agenda-Telefonica-Java
-asfjdosbgjdewjgpinfbdsliug hedsol fgasidfbgkfd jsklbjgfdjklhg fzshjdsfsdgd
-sdgsdgdsgd
-gsdgdsgdsgds
-gdsgsdg
+assurdo lo ha modificato un coglione
 
 ### Descrição do projeto
 Uma aplicação Java que tem o objetivo de criar uma agenda telefônica que armazene os seguintes dados:
