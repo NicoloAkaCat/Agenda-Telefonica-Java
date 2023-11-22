@@ -1,6 +1,5 @@
 # Agenda-Telefonica-Java
-folle nel culo pazzissimo
-pablo
+assurdo lo ha modificato un coglione
 
 ### Descrição do projeto
 Uma aplicação Java que tem o objetivo de criar uma agenda telefônica que armazene os seguintes dados:
